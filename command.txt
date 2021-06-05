@@ -26,3 +26,17 @@ git add *
 git commit -m "commit line in file"
 
 git push -u origin master
+
+chanege repositories
+
+change code
+ git add *
+ git commit -m " change code commmand file"
+ git push
+
+ change /upload 
+ chanege data
+ git add *
+ git commit -m "comamnt data info"
+ git push origin master
+ 
