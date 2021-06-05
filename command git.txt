@@ -1,0 +1,28 @@
+git commmand vs terminal window 10
+
+create a folder 
+mkdir file name
+mkdir testgit
+
+creat file in folder
+
+type nul > filename.format
+
+type nul > emtyfile.txt
+
+git init
+
+Configure tooling Configure user information for all local repositories
+$ git config --global color.ui 
+auto Enables helpful colorization of command line output
+$ git config --global user.email "[email address]" 
+Sets the email you want attached to your commit transactions
+$ git config --global user.name "[name]" 
+Sets the name you want attached to your commit transactions
+
+
+git add *
+
+git commit -m "commit line in file"
+
+git push -u origin master
