@@ -49,3 +49,7 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/swaponabdulla/FTGGH.git
 git push -u origin main
+
+add abdullah branch
+add abdullah.txt file
+upload abdullah photo in image folder
