@@ -40,3 +40,16 @@ change code
  git commit -m "comamnt data info"
  git push origin master
  
+
+ readme.md
+ echo "# FTGGH" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/swaponabdulla/FTGGH.git
+git push -u origin main
+
+add abdullah branch
+add abdullah.txt file
+upload abdullah photo in image folder
