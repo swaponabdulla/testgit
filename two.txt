@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 two data
 
 pull data
+=======
+2
+2
+two
+
+
+
+
+140
+150
+160
+>>>>>>> 9e7dc942749d416011a4af78bfb9cc5a15ac5beb
