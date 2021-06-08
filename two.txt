@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 2
 2
-=======
 two data
-
-pull data
->>>>>>> main
+git merge
